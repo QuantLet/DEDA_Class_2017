@@ -1,0 +1,23 @@
+Name of Quantlet : DEDA_Class_2017_InputOutput
+Published in : Digital Economy and Decision Analytics
+Description : Introduce importing packages, reading and writing files, using pandas to read and write structured data.
+Keywords : 
+- Python
+- Teaching
+- import package
+- pickle
+- pandas
+- csv
+- json
+Author : Junjie Hu
+
+
+
+
+
+
+
+
+
+
+

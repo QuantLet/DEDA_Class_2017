@@ -1,0 +1,16 @@
+Name of Quantlet : DEDA_Class_2017_MachineLearning
+Published in : Digital Economy and Decision Analytics
+Description :
+- Demonstrate decision tree 
+- Demonstrate applied SVM on NLP sentiment classification
+
+Keywords :
+- Python
+- Teaching
+- Machine learning
+- Sklearn
+- Decision tree
+- Support vector machine
+- Sentiment classification
+
+Author : Junjie Hu

@@ -1,0 +1,22 @@
+Name of Quantlet : DEDA_Class_2017_Python_Condition&Iteration
+Published in : Digital Economy and Decision Analytics
+Description : Introduce the conditional execution and how to iterate by using #for# and #while# in a pythonic way.
+Keywords : 
+- Python
+- Teaching
+- conditional execution
+- looping
+- for
+- while
+Author : Junjie Hu
+
+
+
+
+
+
+
+
+
+
+
