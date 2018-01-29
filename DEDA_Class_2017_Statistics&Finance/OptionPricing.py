@@ -1,10 +1,8 @@
 """
 Copyright: This code is from "Python for finance, analyze big financial data", Yves Hilpisch
-This is a nice book for Python novices
+It is a highly recommended book for Python novices
 """
 
-
-#
 # Monte Carlo valuation of European call option
 # in Black-Scholes-Merton model
 # bsm_mcs_euro.py
@@ -23,10 +21,9 @@ I = 100000  # number of simulations
 # Valuation Algorithm
 z = np.random.standard_normal(I)  # pseudorandom numbers
 ST = S0 * np.exp((r - 0.5 * sigma ** 2) * T + sigma * np.sqrt(T) * z)
-  # index values at maturity
+# index values at maturity
 hT = np.maximum(ST - K, 0)  # inner values at maturity
 C0 = np.exp(-r * T) * np.sum(hT) / I  # Monte Carlo estimator
 
 # Result Output
-print("Value of the European Call Option %5.3f"%C0)
-
+print("Value of the European Call Option %5.3f" % C0)
