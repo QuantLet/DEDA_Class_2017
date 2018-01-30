@@ -1,5 +1,3 @@
-# pyning
-text mining using python
 
 # Analyzing Speeches by Douglass and Trump
 - Import using Selenium, BeautifulSoup or load speeches.txt
