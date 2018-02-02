@@ -4,6 +4,8 @@ Description :
 - Demonstrate Linear Opearation and Fourier Transform Using Nympy
 - Draw plot normal distributed random variables and sample's PDF and CDF using Matplotlib
 - Demonstrate different kernel density estimations
+- Use Black-Scholes Model to price options
+- Simulate implied volatility and plot volatility smile
 
 Keywords :
 - Python
@@ -13,5 +15,7 @@ Keywords :
 - Matplotlib
 - PDF/CDF
 - KDE
+- Black-Scholes
+- Implied Volatility
 
-Author : Junjie Hu
+Author : Junjie Hu, Yves Hilpisch
