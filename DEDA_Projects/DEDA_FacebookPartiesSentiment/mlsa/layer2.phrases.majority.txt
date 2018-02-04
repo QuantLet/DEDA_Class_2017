@@ -1,0 +1,737 @@
+1	[als gerechten+ Krieg-]#	t
+1	[einem dem deutschen Volk aufgezwungenen- Bewährungskampf-]-	t
+1	[Den Weltkrieg-]-	t
+2	[auf beziehungs-_ bzw. partnerschaftliche Probleme-]-	t
+2	[zum Nachteil- des jeweiligen Partners]-	s
+2	[von Straftaten- [zum Nachteil- des jeweiligen Partners]-]-	s
+2	[mit der Begehung [von Straftaten- [zum Nachteil- des jeweiligen Partners]-]-]-	t
+2	[der Sicherungsverwahrung-]-	s
+2	[die Anordnung [der Sicherungsverwahrung-]-]-	s
+2	[als eine [die Anordnung [der Sicherungsverwahrung-]-]- zu begründen vermögende Persönlichkeitsstörung-]-	t
+3	[guten+ Willens]+	s
+3	[Alle Menschen [guten+ Willens]+]+	t
+3	[die moralisch unannehmbaren- staatlichen Gesetze]-	s
+3	[die unerlaubten- praktischen Verhaltensweisen]-	s
+3	[[die moralisch unannehmbaren- staatlichen Gesetze]- und [die unerlaubten- praktischen Verhaltensweisen]-]-	t
+4	[viraler- Infektionen-]-	s
+4	[zahlreicher Krebserkrankungen-]-	s
+4	[[viraler- Infektionen-]- und [zahlreicher Krebserkrankungen-]-]-	s
+4	[In der Chemotherapie+ [[viraler- Infektionen-]- und [zahlreicher Krebserkrankungen-]-]-]+	t
+5	[höchst^ beunruhigende- Weise]-	s
+5	[subtile+ , aber [höchst^ beunruhigende- Weise]-]-	s
+5	[auf [subtile+ , aber [höchst^ beunruhigende- Weise]-]-]-	t
+6	[mit bedeutendem^ Verlust-]-	t
+7	[auf andere Unproduktive-]-	t
+7	[bei den unheilbar- Lungenkranken-]-	s
+7	[bei den Altersschwachen-]-	s
+7	[bei den Arbeitsinvaliden-]-	s
+7	[bei den schwer^ kriegsverletzten- Soldaten]-	s
+7	[[bei den unheilbar- Lungenkranken-]- , [bei den Altersschwachen-]- , [bei den Arbeitsinvaliden-]- , [bei den schwer^ kriegsverletzten- Soldaten]-]-	t
+8	[praktische Schwierigkeiten-]-	t
+9	[aller Nichtsektenmitglieder+]+	s
+9	[bis hin zur Ablehnung~ [aller Nichtsektenmitglieder+]+]-	s
+9	[eine soziale Abkapselung- [bis hin zur Ablehnung~ [aller Nichtsektenmitglieder+]+]-]-	s
+9	[[eine soziale Abkapselung- [bis hin zur Ablehnung~ [aller Nichtsektenmitglieder+]+]-]-]-	t
+9	[Gut+ und Böse-]#	s
+9	[Gerettete+ und Nichtgerettete-]#	s
+9	[[Gut+ und Böse-]# , [Gerettete+ und Nichtgerettete-]# , Antikommunisten und Kommunisten usw.]#	s
+9	[in [[Gut+ und Böse-]# , [Gerettete+ und Nichtgerettete-]# , Antikommunisten und Kommunisten usw.]#]#	t
+10	[aus dieser natürlichen Arbeitsscheu- der Menschen]-	t
+10	[die schwierigsten- sozialen Probleme-]-	t
+11	[zu fundamentalistischen- Bewegungen]-	t
+12	[zum Ehrenmitglied+ des Präsidiums]+	s
+12	[Mit der Ernennung [zum Ehrenmitglied+ des Präsidiums]+]+	t
+12	[als unverzichtbare+ Kraft]+	t
+14	[Angst-]-	t
+14	[Liebe+ , Freude+ , Ärger- , Wut- oder Trauer-]#	s
+14	[wie [Liebe+ , Freude+ , Ärger- , Wut- oder Trauer-]#]#	s
+14	[ein ganz normaler menschlicher Gefühlszustand [wie [Liebe+ , Freude+ , Ärger- , Wut- oder Trauer-]#]#]#	t
+14	[auf bedrohlich- , ungewiss- oder unkontrollierbar- beurteilte Ereignisse und Situationen]-	s
+14	[als Reaktion [auf bedrohlich- , ungewiss- oder unkontrollierbar- beurteilte Ereignisse und Situationen]-]0	t
+15	[die unverzichtbare+ Sicherheit+ im täglichen Einsatz]+	t
+16	[an ausreichendem+ Leistungsdruck- in der Schule]+	t
+17	[des Datenschutzes+]+	s
+17	[die Erforderlichkeit [des Datenschutzes+]+]+	t
+19	[keine~ intellektuellen Überflieger+]-	s
+19	[voller Saft und Kraft+]+	s
+19	[voller Frische+ und Ausdruck+]+	s
+19	[[voller Saft und Kraft+]+, [voller Frische+ und Ausdruck+]+]+	s
+19	[saftige+ , reife+ , runde+ Weine [[voller Saft und Kraft+]+, [voller Frische+ und Ausdruck+]+]+]+	s
+19	[[keine~ intellektuellen Überflieger+]-, sondern [saftige+ , reife+ , runde+ Weine [[voller Saft und Kraft+]+, [voller Frische+ und Ausdruck+]+]+]+]#	t
+19	[mit Genuß+]+	t
+20	[Die intelligente+ , reiche+ , attraktive+ und laszive- Autorin]+	t
+21	[vor dem schrecklichen- Phantom-]-	s
+21	[keine~ Angst- [vor dem schrecklichen- Phantom-]-]+	t
+22	[Krankheiten]-	t
+22	[wunderbare+ Gabe+]+	t
+22	[hohes+ Ansehen+]+	t
+23	[kein~ ethisches Problem-]+	t
+24	[Zu diesen Waffen+]+	t
+24	[gerechte+ Handelsbedingungen]+	s
+24	[von internationaler Verschuldung-]-	s
+24	[Abbau~ und Prävention~ [von internationaler Verschuldung-]-]+	s
+24	[Armutsbekämpfung+ , Gesundheitsversorgung+, Bildung+, [gerechte+ Handelsbedingungen]+ sowie [Abbau~ und Prävention~ [von internationaler Verschuldung-]-]+]+	t
+25	[Rechte+ des Kindes]+	t
+25	[für kindgerechte+ Lebensbedingungen]+	t
+26	[legitimer+ Antrieb]+	t
+26	[gegen~ ein unvermeidliches- Los]+	t
+27	[zur Artenvielfalt+ unserer Siedlungen]+	t
+27	[keine~ Vernichtung-]+	s
+27	[ein kleiner gesunder+ Taubenbestand]+	s
+27	[[keine~ Vernichtung-]+, sondern [ein kleiner gesunder+ Taubenbestand]+]+	t
+28	[Missbrauch- des Internets]-	t
+28	[durch wirksame+ Sanktionen-]-	t
+29	[mit nicht~ unerheblicher% Strafe-]-	t
+30	[seine Strafe-]-	t
+30	[unter schlechter- Gesundheit+]-	t
+30	[der anhaltenden Gefangenschaft-]-	s
+30	[fehlender~ Aufmerksamkeit+ für sein fortgeschrittenes Alter]-	s
+30	[[der anhaltenden Gefangenschaft-]- und [fehlender~ Aufmerksamkeit+ für sein fortgeschrittenes Alter]-]-	s
+30	[aufgrund [[der anhaltenden Gefangenschaft-]- und [fehlender~ Aufmerksamkeit+ für sein fortgeschrittenes Alter]-]-]-	t
+31	[blanke ehrbare+ erbarmungswürdige- Not-]-	t
+32	[kein~ reiner^ Segen+]+	t
+32	[Der Mauerfall+]+	t
+33	[keine~ Genehmigung+]-	t
+33	[von interessierten+ Besuchern]+	t
+34	[der Faszination+]+	s
+34	[Die tieferen Ursachen [der Faszination+]+]0	t
+34	[Ängste- und Begierden-]-	s
+34	[die Sucht- nach Leben]-	s
+34	[nach Unsterblichkeit+]+	s
+34	[die Sehnsucht+ [nach Unsterblichkeit+]+]+	s
+34	[[Ängste- und Begierden-]-, [die Sucht- nach Leben]- und [die Sehnsucht+ [nach Unsterblichkeit+]+]+]#	t
+35	[erhebliche^ methodische Fehler-]-	t
+36	[konfusen- nationalistischen- Hoffnungen+]-	s
+36	[politisch subjektiven Menschen und [konfusen- nationalistischen- Hoffnungen+]-]-	s
+36	[von [politisch subjektiven Menschen und [konfusen- nationalistischen- Hoffnungen+]-]-]-	s
+36	[aus einem Land [von [politisch subjektiven Menschen und [konfusen- nationalistischen- Hoffnungen+]-]-]-]-	t
+36	[enormen^ Muts+ und Selbstsicherheit+]+	t
+36	[der Guten+ und Großen+]+	s
+36	[vor eine Versammlung [der Guten+ und Großen+]+]+	t
+37	[Das Schlimmste-]-	t
+37	[eine mir unerklärliche^ starke^ innere Unruhe-]-	t
+37	[das gleichzeitige Unvermögen-]-	t
+38	[zur Demokratie+]+	s
+38	[Seit dem Übergang [zur Demokratie+]+ 1990]+	t
+38	[einige oberflächliche- Änderungen ( am Bildungssystem )]-	t
+38	[keine~ nachhaltige+ Unterstützung+]-	t
+39	[Miese- Ertragslage , mangelhafte- Qualität , zu hohe^ Kosten-]-	t
+40	[Die Ungerechtigkeit-]-	t
+40	[von den Steuerfreibeträgen]+	t
+41	[der Eskalation- rassistisch- motivierter Gewalt-]-	s
+41	[Als Folge [der Eskalation- rassistisch- motivierter Gewalt-]- Ende 1993]-	t
+42	[falscher-]-	s
+42	[in der Vorspiegelung- [falscher-]-]-	s
+42	[wahrer+ Tatsachen]+	s
+42	[in der Entstellung- oder Unterdrückung~ [wahrer+ Tatsachen]+]-	s
+42	[[in der Vorspiegelung- [falscher-]-]- oder [in der Entstellung- oder Unterdrückung~ [wahrer+ Tatsachen]+]-]-	t
+43	[diese unseligen- Kreaturen]-	t
+43	[aus ihrem falschen- Glauben]-	t
+44	[destruktive- Kräfte]-	t
+45	[ins absolute^Elend-]-	t
+46	[nach dem eigenen , authentischen+ Weg]+	s
+46	[Suchen [nach dem eigenen , authentischen+ Weg]+]+	s
+46	[Trauer- , Hoffnung+, Verzweiflung-, Einsamkeit- und [Suchen [nach dem eigenen , authentischen+ Weg]+]+]#	s
+46	[von [Trauer- , Hoffnung+, Verzweiflung-, Einsamkeit- und [Suchen [nach dem eigenen , authentischen+ Weg]+]+]#]#	t
+47	[auf deren zweitrangige- Absicherung+]-	s
+47	[im Hinblick [auf deren zweitrangige- Absicherung+]-]-	t
+47	[keine~ realen+ Sicherheiten+]-	t
+48	[einer Verzagtheit-]-	s
+48	[Ausdruck [einer Verzagtheit-]-]-	t
+48	[die strategische Phantasie+]+	t
+48	[zu tatsächlicher Machtlosigkeit -]-	t
+49	[keine~ sicheren+ Risikofaktoren-]-	t
+49	[aller bösartigen- Gallenblasentumoren]-	s
+49	[bei 70-98 Prozent [aller bösartigen- Gallenblasentumoren]-]-	s
+49	[aller Gallenwegstumoren]-	s
+49	[bei 26-50 Prozent [aller Gallenwegstumoren]-]-	s
+49	[[bei 70-98 Prozent [aller bösartigen- Gallenblasentumoren]-]- und [bei 26-50 Prozent [aller Gallenwegstumoren]-]-]-	t
+50	[von einer guten+ Nachfrage]+	t
+50	[bei einem schwachen- Angebot]-	t
+50	[hohe+ Ansprüche an Qualität und Lage]+	t
+51	[negative- Energie]-	t
+51	[der Versöhnung+]+	s
+51	[positive+ Energie [der Versöhnung+]+]+	t
+51	[dem Wahnsinn-]-	t
+52	[heftige^ Schmerzen- bei Bewegung und Druck]-	s
+52	[abnorme- Gelenkstellung]-	s
+52	[[heftige^ Schmerzen- bei Bewegung und Druck]-, Schwellung-, Bluterguss- , [abnorme- Gelenkstellung]- und Beweglichkeit.]-	t
+53	[gegen~ die Folter-]+	s
+53	[der damaligen Kampagne [gegen~ die Folter-]+]+	s
+53	[im Rahmen [der damaligen Kampagne [gegen~ die Folter-]+]+]+	t
+53	[auf bekannt gewordene Menschenrechtsverletzungen-]-	t
+54	[ein ernsthafter^ Verdacht-]-	t
+54	[gegen~ den Frieden+]-	s
+54	[gegen~ die Menschlichkeit+]-	s
+54	[ein Verbrechen- [gegen~ die Menschlichkeit+]-]-	s
+54	[Verbrechen- [gegen~ den Frieden+]- , ein Kriegsverbrechen- oder [ein Verbrechen- [gegen~ die Menschlichkeit+]-]-]-	t
+55	[Ohne~ den Kampf+ der Massen]-	t
+55	[keine~ sozialen+ Reformen+]-	t
+57	[unter starkem^ Bluthochdruck- sowie an einer Zahnfleischentzündung-]-	t
+58	[zu einem elenden- schwachen- Ding]-	t
+58	[von Lust+ , Zärtlichkeit+ und Schmerzen-]#	t
+58	[keine~ wirksame+ Kraft]-	t
+58	[alle Standhaftigkeit+ und aller männliche Mut+]+	t
+59	[der nächste Krieg-]-	t
+60	[trotz~ der brutalen^ Repression-]-	t
+60	[die zerstörten- kollektiven demokratischen+ Strukturen]-	t
+61	[Der Erholungsurlaub+]+	t
+61	[bei Erkrankung- eines nahen Angehörigen]-	t
+61	[bei eigener Erkrankung-]-	t
+61	[des Erholungsurlaubs+]+	s
+61	[eine Unterbrechung~ [des Erholungsurlaubs+]+]-	t
+62	[des gewaltigen^ unerlaubten- Waffenhandels]-	s
+62	[dem Problem- [des gewaltigen^ unerlaubten- Waffenhandels]-]-	t
+63	[wie Hohn- und Ablehnung-]-	s
+63	[Negative- Reaktionen der Mitmenschen [wie Hohn- und Ablehnung-]-]-	t
+63	[Verlegenheit-]-	t
+64	[die Hölle-]-	t
+64	[die schlimmste^ Folter-]-	t
+64	[auf deine Peiniger-]-	s
+64	[ohne~ Hass- [auf deine Peiniger-]-]+	t
+64	[der Hölle-]-	t
+65	[gegen~ die Menschlichkeit+]-	s
+65	[Verbrechen- [gegen~ die Menschlichkeit+]-]-	s
+65	[Völkermordes-, Kriegsverbrechen- und [Verbrechen- [gegen~ die Menschlichkeit+]-]-]-	s
+65	[während der Kriege- in Kroatien , Bosnien und im Kosovo in den 90er Jahren]-	t
+66	[viele Probleme- der Berufsausbildung]-	t
+67	[von Flüchtlingen-]-	s
+67	[eine Massenrückwanderung [von Flüchtlingen-]-]-	t
+67	[zum sozialen Chaos-]-	t
+68	[Tatenlosigkeit- und Langeweile-]-	s
+68	[von extremer^  [Tatenlosigkeit- und Langeweile-]-]-	t
+69	[handfeste^ familiäre Probleme-]-	t
+69	[bei deren Ausbildung+]+	t
+70	[vor allem sozialer Probleme-]-	s
+70	[an der Lösung~  [vor allem sozialer Probleme-]-]+	t
+71	[als höchste^ Beleidigung-]-	t
+72	[intensiver^ Angst-]-	s
+72	[massiver^ Hilflosigkeit-]-	s
+72	[extremer^ Wut-]-	s
+72	[Gefühle [intensiver^ Angst-]- , [massiver^ Hilflosigkeit-]- und/ oder [extremer^ Wut-]-]-	t
+72	[eine Traumatisierung-]-	t
+73	[Stärkster^ Risikofaktor-]-	t
+74	[mit mehr als zweifelhaftem- Ruf]-	s
+74	[eine zwielichtige- Persönlichkeit [mit mehr als zweifelhaftem- Ruf]-]-	t
+75	[gegen~ die Menschlichkeit+]-	s
+75	[Verbrechen- [gegen~ die Menschlichkeit+]-]-	s
+75	[Mord- , Vergewaltigung- und [Verbrechen- [gegen~ die Menschlichkeit+]-]-]-	t
+75	[mit dem Krieg- in Sierra Leone]-	s
+75	[im Zusammenhang [mit dem Krieg- in Sierra Leone]-]-	t
+76	[Sozial schwächeren- Schülern]-	t
+77	[um den Weltfrieden+]+	s
+77	[von tiefster^ Sorge- [um den Weltfrieden+]+]-	t
+77	[des Schreckens-]-	s
+77	[vor einer Vervielfältigung^ [des Schreckens-]-]-	s
+77	[aus Angst- [vor einer Vervielfältigung^ [des Schreckens-]-]-]-	t
+78	[geschickte+ Manipulationen-]-	t
+79	[Mit begrenzten% Kräften+]+	t
+79	[viel^ Einsatz+]+	t
+80	[deutlichen^ Nachholbedarf-]-	t
+81	[der kritiklosen- Unterwerfung-]-	s
+81	[fanatischen- Verehrung+ durch die dreieinhalb Millionen Palästinenser]-	s
+81	[[der kritiklosen- Unterwerfung-]- und [fanatischen- Verehrung+ durch die dreieinhalb Millionen Palästinenser]-]-	s
+81	[Die Form [[der kritiklosen- Unterwerfung-]- und [fanatischen- Verehrung+ durch die dreieinhalb Millionen Palästinenser]-]-]-	t
+81	[die Schaffung demokratischer+ Einrichtungen]+	s
+81	[einer politischen Ordnung+]+	s
+81	[[die Schaffung demokratischer+ Einrichtungen]+ und [einer politischen Ordnung+]+]+	t
+82	[Vorurteile- der heterosexuellen Mehrheit gegenüber einer homosexuellen Minderheit]-	t
+82	[für Eingriffe- in das Privatleben]-	s
+82	[keine~ ausreichende+ Rechtfertigung+  [für Eingriffe- in das Privatleben]-]-	t
+82	[wie  ähnliche negative- Einstellungen gegenüber Personen anderer Rasse , Abstammung oder Hautfarbe]-	t
+83	[nicht~ unerhebliche% Nachteile-]-	t
+83	[eine Rentenminderung- wegen der Inanspruchnahme der Rente zu einem früheren Zeitpunkt]-	s
+83	[wegen vorhergehender Arbeitslosigkeit-]-	t
+83	[von den Sozialplanleistungen+]+	s
+83	[Ausschluß- [von den Sozialplanleistungen+]+]-	t
+84	[menschlicher Geborgenheit+]+	s
+84	[durch Jahrtausende sicherste+ Ort [menschlicher Geborgenheit+]+]+	s
+84	[der [durch Jahrtausende sicherste+ Ort [menschlicher Geborgenheit+]+]+]+	t
+84	[gegen das von Gott zur Einmaligkeit bestimmte wehrlose- Menschenkind+]-	s
+84	[zum frei manipulierbaren Schlachtfeld- [gegen das von Gott zur Einmaligkeit bestimmte wehrlose- Menschenkind+]-]-	t
+85	[Reine^ Propaganda-]-	t
+86	[ein Tumor- nicht ausgereifter Nervenzellen]-	t
+87	[eines derartigen Vertrauensverlustes- in autonome Prozesse]-	t
+87	[eines entfremdeten- Selbst]-	s
+87	[die Konstruktion [eines entfremdeten- Selbst]-]-	t
+87	[eine ungeschlachte- Maschine]-	t
+87	[in fieberhafter- Angst-]-	t
+87	[Abwehr-_- und Angriffsstrategien-]-	s
+87	[immer neue [Abwehr-_- und Angriffsstrategien-]-]0	t
+88	[diese bedrohliche- , mystische , extrem^ dichte und schmuddelige- Atmosphäre]-	t
+89	[keinerlei~ Chancen+]-	t
+89	[keine~ hinreichende+ Transparenz+ der Verhandlungen]-	t
+90	[eine stärkere^ Inflation-]-	s
+90	[eine Destabilisierung- der Wirtschaft]-	s
+90	[mögliche soziale+ Spannungen-]-	s
+90	[[eine stärkere^ Inflation-]- und [eine Destabilisierung- der Wirtschaft]- und [mögliche soziale+ Spannungen-]-]-	t
+91	[mit der Schmerzerfahrung-]-	t
+91	[ein Teufelskreis-]-	t
+91	[Angst- vor Schmerzen-]-	s
+91	[Angst- vor Bewegung]-	s
+91	[[Angst- vor Schmerzen-]- und [Angst- vor Bewegung]-]-	t
+92	[diese Unerreichbarkeit-]-	t
+92	[beharrlichen+ , bewußten Widerstandes-]-	s
+92	[frecher- Auflehnung gegen Gott und Seinen Christus]-	s
+92	[[beharrlichen+ , bewußten Widerstandes-]-, [frecher- Auflehnung gegen Gott und Seinen Christus]-]-	s
+92	[das Ergebnis [[beharrlichen+ , bewußten Widerstandes-]-, [frecher- Auflehnung gegen Gott und Seinen Christus]-]-]-	t
+93	[Schmerz- in der Magengegend]-	s
+93	[an Ohnmacht- grenzende]-	s
+93	[starke^ [an Ohnmacht- grenzende]-  Betäubung]-	s
+93	[[Schmerz- in der Magengegend]-, Ermattung- und [starke^ [an Ohnmacht- grenzende]-  Betäubung]-]-	s
+93	[durch [[Schmerz- in der Magengegend]-, Ermattung- und [starke^ [an Ohnmacht- grenzende]-  Betäubung]-]-]-	t
+94	[eines geliebten+ Menschen]+	s
+94	[über den Verlust- [eines geliebten+ Menschen]+]-	t
+95	[keine~ sichere+ Kontrolle]-	t
+96	[eine Million Drachmen Schulden-]-	t
+96	[mit unbezahlbarer- Schuld-]-	t
+97	[sein Leid- über den Kühler]-	t
+98	[starke^ Schmerzen-]-	t
+98	[Messerstiche-]-	t
+99	[zahlreiche Manipulationen-]-	t
+99	[erste Verhaftungen-]-	t
+100	[an der Eignung+]+	s
+100	[Zweifel- [an der Eignung+]+]-	t
+101	[Krankheit- und Heilung+]#	s
+101	[Freude+ und Klage-]#	s
+101	[Geburt+ , Tod- , [Krankheit- und Heilung+]#, [Freude+ und Klage-]#]#	t
+102	[Hochzeit+ und Beerdigung-]#	s
+102	[Leben+ und Tod-]#	s
+102	[Glück+ und Trauer-]#	s
+102	[Lachen+ und Weinen-]#	s
+102	[[Hochzeit+ und Beerdigung-]# , [Leben+ und Tod-]#, [Glück+ und Trauer-]#, [Lachen+ und Weinen-]#]#	t
+103	[des Terrorismus-]-	s
+103	[einer allgemein akzeptablen+ Definition [des Terrorismus-]-]+	s
+103	[von Terrorismus- und Freiheitskampf+]#	s
+103	[mit der Abgrenzung [von Terrorismus- und Freiheitskampf+]#]-	t
+107	[interessante+ Bräuche]+	s
+107	[kulturelle+ Veranstaltungen]+	s
+107	[das politische Ortsgeschehen , [interessante+ Bräuche]+ und [kulturelle+ Veranstaltungen]+]+	s
+107	[über [das politische Ortsgeschehen , [interessante+ Bräuche]+ und [kulturelle+ Veranstaltungen]+]+]+	s
+107	[Meldungen [über [das politische Ortsgeschehen , [interessante+ Bräuche]+ und [kulturelle+ Veranstaltungen]+]+]+]+	t
+107	[ernste+ , soziale , kirchliche , lustige+ oder kuriose Themen]+	t
+108	[Liebe+ und Freundschaft+]+	s
+108	[Treue+ und Verrat-]#	t
+110	[der law-and-orderFraktion- in CDU und SPD]-	s
+110	[härteren- Strafen-]-	s
+110	[[härteren- Strafen-]- und geschlossenen Heimen]-	s
+110	[nach [[härteren- Strafen-]- und geschlossenen Heimen]-]-	s
+110	[Der laute Ruf [der law-and-orderFraktion- in CDU und SPD]- [nach [[härteren- Strafen-]- und geschlossenen Heimen]-]-]-	t
+111	[Deutsche und nichtdeutsche , behinderte- und nichtbehinderte+ , ärmere- und reichere+ Kinder]#	t
+112	[einer realistischen+ Politik wirklich linker Kräfte]+	s
+112	[einer marxistisch sozialistischen Programmatik und [einer realistischen+ Politik wirklich linker Kräfte]+]+	s
+112	[für die Formierung [einer marxistisch sozialistischen Programmatik und [einer realistischen+ Politik wirklich linker Kräfte]+]+]0	t
+115	[( ohne~ Blasenbildung- )]+	s
+115	[geringen+ Grades [( ohne~ Blasenbildung- )]+]-	s
+115	[leichte% Verbrennungen- oder Verbrühungen- [geringen+ Grades [( ohne~ Blasenbildung- )]+]-]-	t
+116	[ein Hindernis- zur Sammlung der linken Kräfte]-	t
+117	[Mit großer^ Sensibilität+]+	t
+117	[Hass- und Liebe+]#	s
+117	[Brutalität- und Zärtlichkeit+]#	s
+117	[grausamer- Spott-]-	s
+117	[mitfühlender+ Trost+]+	s
+117	[[grausamer- Spott-]- und [mitfühlender+ Trost+]+]#	s
+117	[[Hass- und Liebe+]# , [Brutalität- und Zärtlichkeit+]#, [[grausamer- Spott-]- und [mitfühlender+ Trost+]+]#]#	t
+118	[Eine energische^ Verbilligung+ der Lohnkosten]+	t
+118	[eine energische^ Verteuerung- von Energie durch Energiesteuern]-	t
+118	[den Anreiz+ für die ständig laufende Substitution von Arbeit durch Energie]+	t
+119	[verschollene- Schätze+]+	t
+122	[zur effizienten+ Vernichtung+ von kinetischer Energie]+	t
+123	[in Solidarität+ mit allen , die leiden ,]+	s
+123	[Das [in Solidarität+ mit allen , die leiden ,]+ gelebte Kreuz- Christi]+	t
+123	[auf das Leben+ und die Auferstehung+]+	s
+123	[mit der Hoffnung+ [auf das Leben+ und die Auferstehung+]+]+	t
+123	[den Freuden+ und Hoffnungen+]+	s
+123	[der Trauer- und den Ängsten-]-	s
+123	[[den Freuden+ und Hoffnungen+]+ , [der Trauer- und den Ängsten-]-]#	s
+123	[an [[den Freuden+ und Hoffnungen+]+ , [der Trauer- und den Ängsten-]-]# der Menschen]#	t
+124	[Schrecken- und Zuversicht+]#	s
+124	[Optimismus+ und Pessimismus-]#	s
+124	[[Schrecken- und Zuversicht+]# , [Optimismus+ und Pessimismus-]#]#	s
+124	[zwischen [[Schrecken- und Zuversicht+]# , [Optimismus+ und Pessimismus-]#]#]#	s
+124	[nach dem Gleichgewicht+ [zwischen [[Schrecken- und Zuversicht+]# , [Optimismus+ und Pessimismus-]#]#]#]+	t
+126	[Trotz~ dieser erheblichen+ Steigerung+ der absoluten Zahlen]0	t
+129	[für die Fälle der Trunkenheitsfahrt- nach § 24a StVG]-	t
+129	[für die Geschwindigkeitsüberschreitung-]-	t
+129	[eines Fahrverbots-]-	s
+129	[die Verhängung [eines Fahrverbots-]-]-	t
+130	[Diese hegemoniale- Strategie]-	t
+130	[der militärischen Interventionen- in Grenada oder Panama]-	s
+130	[im Falle [der militärischen Interventionen- in Grenada oder Panama]-]0	t
+130	[zum formellen Bruch- mit beidem]-	t
+131	[ein Fehler-]-	t
+131	[um eine richtige+ oder falsche- Handlung]#	t
+131	[einen richtigen+ oder falschen- Gedanken]#	t
+132	[von echten+ und falschen- Propheten?]#	s
+132	[zwischen guten+ und faulen- Früchten [von echten+ und falschen- Propheten?]#]#	t
+133	[» objektiver Bedingtheit- « und » subjektiver Freiheit+ «]#	s
+133	[zwischen [» objektiver Bedingtheit- « und » subjektiver Freiheit+ «]# des Menschen]#	s
+133	[dieses Paradox- [zwischen [» objektiver Bedingtheit- « und » subjektiver Freiheit+ «]# des Menschen]#]-	t
+136	[die vermeintliche% Beleidigung-]-	t
+137	[mit Hoffnung+ oder Aussichtslosigkeit-]#	t
+137	[auf die Widerstands-_ und Terroristengruppen-]-	s
+137	[die Sicht breiter Teile der Bevölkerung [auf die Widerstands-_ und Terroristengruppen-]-]0	t
+138	[keine tiefgreifende Rebellion]0	t
+139	[gute+ und schlechte- Gesamtschulen]#	s
+139	[gute+ und schlechte- Gymnasien]#	s
+139	[[gute+ und schlechte- Gesamtschulen]# und [gute+ und schlechte- Gymnasien]#]#	t
+142	[wie Freude+ , Hass- , Traurigkeit- , Spannung? , Angst-]#	s
+142	[bestimmte emotionale Reaktionen [wie Freude+ , Hass- , Traurigkeit- , Spannung? , Angst-]#]#	t
+143	[einige Sachbeschädigungen- am Phil II]-	t
+143	[deutliche^ Spaltungen-]-	t
+144	[das Humoristische+]+	t
+144	[das hohe+ Ernste+]+	t
+145	[Nachholbedarf-]-	t
+146	[bestimmten zerstörerischen- Praktiken im Zusammenhang mit der WTO]-	t
+146	[zur reinen^ Behinderung- des Zusammenkommens einiger Leute an einem bestimmten Ort zu einer bestimmten Zeit]-	t
+146	[andere , noch^ zerstörerische-]-	t
+147	[einen angenehmen+ Klang]+	s
+147	[eines sympathischen+ , ihr unbekannten Akzents]+	s
+147	[den Hauch [eines sympathischen+ , ihr unbekannten Akzents]+]+	s
+147	[[einen angenehmen+ Klang]+ und [den Hauch [eines sympathischen+ , ihr unbekannten Akzents]+]+]+	t
+148	[der Lump-]-	t
+148	[Respekt+]+	t
+150	[Krieg- oder Frieden+]#	s
+150	[die Alternative [Krieg- oder Frieden+]#]#	t
+152	[zu einer Überempfindlichkeit- der Zellen]-	t
+153	[keine~ Zeichnung-]0	t
+154	[Die gute+ Seite und die schlechte- Seite]#	s
+154	[der Vorteil+ und der Nachteil-]#	s
+154	[[Die gute+ Seite und die schlechte- Seite]# , [der Vorteil+ und der Nachteil-]#]#	t
+157	[um guten+ oder schlechten- Duft]#	t
+158	[um Krieg- und Frieden+]#	t
+159	[nach bestimmten Schätzen+]+	t
+161	[Krieg- oder Frieden+]#	s
+161	[das Thema [Krieg- oder Frieden+]#]#	t
+163	[im kritikfreien- Raum]-	t
+163	[echter^ Widerstand+]+	t
+164	[aus menschlicher+ Sicht]+	s
+164	[die [aus menschlicher+ Sicht]+ unüberwindbare^ Not- und Hilflosigkeit-]-	t
+164	[der Rettung+]+	s
+164	[die unerschütterliche+ Gewissheit [der Rettung+]+]+	t
+165	[hitzige^ Wortgefechte-]-	t
+165	[ruhiges+ Nachdenken+]+	t
+166	[für nicht~ sozial+ motivierte Zwecke]-	t
+167	[das behinderte- Kind]-	t
+167	[das durchschnittlich begabte+ oder das hoch^ begabte+ Kind]+	t
+172	[wirklich^ wahre+ Freunde+]+	t
+173	[Krisen-]-	t
+174	[( im Leben zurecht kommen wollen , Neugier+ )]+	s
+174	[die natürliche Motivation+ [( im Leben zurecht kommen wollen , Neugier+ )]+]+	t
+174	[gute+ Zensuren-]+	s
+174	[Vermeidung+ von Bestrafung-]+	s
+174	[([gute+ Zensuren-]+, [Vermeidung+ von Bestrafung-]+)]+	s
+174	[durch eine künstliche Motivation+[([gute+ Zensuren-]+, [Vermeidung+ von Bestrafung-]+)]+]+	t
+175	[auf schnelle+ pragmatische+ Hilfe+]+	t
+176	[ernsthaften Krankheiten- und Verletzungen-]-	t
+177	[Eine gesunde+ und sinnvolle+ Entwicklung+ der Kinder]+	s
+177	[die Vermeidung+ von verkehrsbedingten Defiziten-]+	s
+177	[[Eine gesunde+ und sinnvolle+ Entwicklung+ der Kinder]+ und [die Vermeidung+ von verkehrsbedingten Defiziten-]+]+	t
+177	[auf einer kinderfreundlichen+ Raum-_ und Verkehrspolitik]+	t
+178	[von Okkupation- , Ungerechtigkeit- und Gewalt-]-	s
+178	[der Ablehnung- und Verurteilung- [von Okkupation- , Ungerechtigkeit- und Gewalt-]-]+	s
+178	[für ein entschiedenes^ Zeichen [der Ablehnung- und Verurteilung- [von Okkupation- , Ungerechtigkeit- und Gewalt-]-]+]+	s
+178	[als Ausdruck [für ein entschiedenes^ Zeichen [der Ablehnung- und Verurteilung- [von Okkupation- , Ungerechtigkeit- und Gewalt-]-]+]+]+	t
+179	[demokratisch+ motivierte Opposition]+	t
+180	[Integration+]+	t
+180	[rassistischer- Gewalt-]-	s
+180	[rassistischer- Gewalttaten-]-	s
+180	[konsequenter+ Bekämpfung~ [rassistischer- Gewalt-]- und rechtlicher+ Verfolgung- [rassistischer- Gewalttaten-]-]+	t
+181	[Der Heilpraktiker und Experte+ für den Bewegungsapparat Achim Schmauderer]+	t
+181	[einfache+ und effektive+ Übungen für den Rücken]+	t
+182	[vor der Zerstörung-]-	t
+182	[gewaltlosen+ Widerstand]+	t
+182	[Diese gravierenden^ Menschenrechtsverletzungen-]-	t
+182	[zum Mord- an Rachel Corrie]-	t
+183	[prachtvolle+ Gärten mit mediterraner Vegetation]+	s
+183	[malerische+ Strandbuchten]+	s
+183	[Grüne Wiesen , [prachtvolle+ Gärten mit mediterraner Vegetation]+ , [malerische+ Strandbuchten]+ und wilde Klippen]+	t
+184	[des kommenden spirituellen+ Zeitalter]+	s
+184	[dominierenden+ Kraft [des kommenden spirituellen+ Zeitalter]+]0	t
+184	[einer ganz und gar göttlichen+ Menschheit]+	s
+184	[die Vision [einer ganz und gar göttlichen+ Menschheit]+]+	t
+185	[Vergebung+ und Versöhnung+]+	s
+185	[Zuversicht+ und Hoffnung+]+	s
+185	[[Vergebung+ und Versöhnung+]+, [Zuversicht+ und Hoffnung+]+]+	s
+185	[in schwierigen- Lebenssituationen]-	s
+185	[[[Vergebung+ und Versöhnung+]+, [Zuversicht+ und Hoffnung+]+]+ [in schwierigen- Lebenssituationen]-]+	t
+186	[die Waffenlobby-]-	s
+186	[[die Waffenlobby-]-, die amerikanischen Medien und die amerikanische Politik]-	s
+186	[gegen~ [[die Waffenlobby-]-, die amerikanischen Medien und die amerikanische Politik]-]+	s
+186	[eine humorvolle+ Anklage- [gegen~ [[die Waffenlobby-]-, die amerikanischen Medien und die amerikanische Politik]-]+]+	t
+186	[die sehr^ lockere+ und manchmal% provokante- Art des Regisseurs]+	s
+186	[Durch [die sehr^ lockere+ und manchmal% provokante- Art des Regisseurs]+ und die meist exzellent+ gelungene+ Montage]+	t
+187	[auf Meinungsfreiheit+]+	s
+187	[ihr Recht+ [auf Meinungsfreiheit+]+]+	t
+187	[Angriffe- und Einschüchterungen-]-	s
+187	[ohne~ [Angriffe- und Einschüchterungen-]-]+	t
+188	[unbeugsames+ Engagement+]+	t
+188	[während des Nationalsozialismus-]-	t
+189	[den genialen+ Landschaftgestalter]+	t
+190	[Diskriminierung- und Verfolgung-]-	s
+190	[vor [Diskriminierung- und Verfolgung-]-]-	s
+190	[ohne~ Angst- [vor [Diskriminierung- und Verfolgung-]-]-]+	s
+190	[um einen offenen+ demokratischen+ Meinungsstreit [ohne~ Angst- [vor [Diskriminierung- und Verfolgung-]-]-]+]+	t
+190	[Ein demokratischer+ Verfassungsstaat]+	t
+190	[der freien+ politischen Kommunikation]+	s
+190	[die Meinungsfreiheit+ , die Versammlungs-_ und die Vereinigungsfreiheit+]+	s
+190	[wie [die Meinungsfreiheit+ , die Versammlungs-_ und die Vereinigungsfreiheit+]+]+	s
+190	[die Grundrechte [der freien+ politischen Kommunikation]+ [wie [die Meinungsfreiheit+ , die Versammlungs-_ und die Vereinigungsfreiheit+]+]+]+	t
+190	[auf den Schutz+ der Privatsphäre]+	s
+190	[die [auf den Schutz+ der Privatsphäre]+  zielenden Grundrechte+]+	t
+191	[durch Verrat-]-	t
+191	[heldenhaften+ Widerstand]+	t
+192	[guter+ Ganztagsbetreuung]+	s
+192	[ein ausreichendes+ Angebot [guter+ Ganztagsbetreuung]+]+	t
+193	[Zähigkeit+ und dem festen Willen]+	s
+193	[mit [Zähigkeit+ und dem festen Willen]+]+	t
+194	[scheinbar leichte+ Beute]+	t
+194	[den Räuber-]-	t
+194	[nach wundersamer+ Heilung+]+	t
+195	[die ihr verdiente+ Strafe-]#	t
+195	[der Einsamkeit-]-	s
+195	[für ihre notorische- Nostalgie+ der kolonialen Zeiten]-	s
+195	[die Strafe- [der Einsamkeit-]- [für ihre notorische- Nostalgie+ der kolonialen Zeiten]-]-	t
+196	[eine ungeheuer^ starke^ Ausstrahlung]+	t
+197	[Liebe+ , Tod- und Krieg- , Kultur+ und Barbarei-]#	s
+197	[über [Liebe+ , Tod- und Krieg- , Kultur+ und Barbarei-]#]#	s
+197	[Ein großartiger+ Film [über [Liebe+ , Tod- und Krieg- , Kultur+ und Barbarei-]#]#]+	t
+198	[das dicke^ Lob+]+	t
+199	[die auftauchenden unangenehmen- Gefühle]-	s
+199	[Angst- oder Schmerz-]-	s
+199	[wie [Angst- oder Schmerz-]-]-	s
+199	[[die auftauchenden unangenehmen- Gefühle]- [wie [Angst- oder Schmerz-]-]-]-	t
+199	[positive+ Gefühle]+	s
+199	[Stolz+ , Freude+ , Neugier+ , Spaß+ , Abenteuerlust+]+	s
+199	[wie [Stolz+ , Freude+ , Neugier+ , Spaß+ , Abenteuerlust+]+]+	s
+199	[Widerstand- und [positive+ Gefühle]+ [wie [Stolz+ , Freude+ , Neugier+ , Spaß+ , Abenteuerlust+]+]+]#	t
+199	[Die reibungslosesten+ Vorstöße]+	t
+200	[ein wirklich^ gutes+ Spiel]+	t
+201	[eine höhere^ passive- Gerechtigkeit+]+	t
+202	[wunderbare+ Melodien+]+	s
+202	[fein+ ausgestaltete Kontrapunkte]+	s
+202	[seltsam anziehende+ Dissonanzen]+	s
+202	[[wunderbare+ Melodien+]+ , [fein+ ausgestaltete Kontrapunkte]+ und [seltsam anziehende+ Dissonanzen]+]+	s
+202	[durch [[wunderbare+ Melodien+]+ , [fein+ ausgestaltete Kontrapunkte]+ und [seltsam anziehende+ Dissonanzen]+]+]+	t
+203	[eine permanente und gesicherte+ Versorgung]+	s
+203	[mit billiger+ Energie]+	s
+203	[[eine permanente und gesicherte+ Versorgung]+ [mit billiger+ Energie]+]+	t
+203	[gegen~ den Terror-]+	s
+203	[des Kampfes [gegen~ den Terror-]+]+	s
+203	[unter dem Deckmantel- [des Kampfes [gegen~ den Terror-]+]+]-	t
+203	[ein Krieg-]-	t
+204	[respektvolle+ Begleitung]+	s
+204	[eine gelassene+, absichtslose und [respektvolle+ Begleitung]+]+	s
+204	[[eine gelassene+, absichtslose und [respektvolle+ Begleitung]+]+ der subjektiven religiösen Potentiale]+	t
+205	[in ärztliche Beratung+]+	s
+205	[der von ihnen [in ärztliche Beratung+]+ übernommenen gesunden+ und kranken- Menschen]+	s
+205	[Nach der gewissenhaften+ Betreuung+ [der von ihnen [in ärztliche Beratung+]+ übernommenen gesunden+ und kranken- Menschen]+]+	t
+205	[die Erstellung von medizinischen Gutachten+]0	t
+206	[die Autonomie+]+	t
+207	[mit reicher^ Beute]+	t
+207	[Ohne den Wilderer-]-	t
+208	[Hohe^ Erfolgsquote+]+	t
+208	[geringe% Gebühr-]-	t
+209	[impulsiven+ Verhaltens]0	s
+209	[Die Kontrolle- [impulsiven+ Verhaltens]0]+	t
+210	[in unproblematischen+ Kiezen wie dem Bötzowviertel]+	t
+210	[das höchste^ durchschnittliche Einkommen im Prenzlauer Berg]+	t
+211	[des hohen^ moralischen+ und geistigen+ Aufschwungs]+	t
+211	[jeder siegreichen+ Revolution]+	s
+211	[die Folge [jeder siegreichen+ Revolution]+]+	t
+212	[Bei recht^ guter+ Erhaltung]+	t
+213	[mit reichlich^ frischem+ Obst, Gemüse und Zwiebeln]+	s
+213	[Ernährung [mit reichlich^ frischem+ Obst, Gemüse und Zwiebeln]+]+	t
+213	[gegen~ Magenkrebs-]+	s
+213	[gute+ Maßnahmen [gegen~ Magenkrebs-]+]+	t
+214	[der wichtigsten^ Krankheiten-]-	s
+214	[Aids- , Tollwut- , Diabetes- und Tuberkulose-]-	s
+214	[wie [Aids- , Tollwut- , Diabetes- und Tuberkulose-]-]-	s
+214	[zur Behandlung+ [der wichtigsten^ Krankheiten-]-  [wie [Aids- , Tollwut- , Diabetes- und Tuberkulose-]-]-]+	t
+215	[ein bedeutender+ Teil der chilenischen Gesellschaft]0	t
+215	[der Teil, der vom wirtschaftlichen Modell profitiert+, dem die Diktatur- nicht~ geschadet- hat]+	t
+216	[gegen~ die Menschlichkeit+]-	s
+216	[von Verbrechen- [gegen~ die Menschlichkeit+]-]-	s
+216	[zur Ahndung- [von Verbrechen- [gegen~ die Menschlichkeit+]-]-]+	t
+216	[des Nazismus- , des Faschismus- und des Militarismus-]-	s
+216	[zur Überwindung+ [des Nazismus- , des Faschismus- und des Militarismus-]-]+	t
+217	[wegen ihres niedrigen- Zustands]-	s
+217	[keinen~ Spott- [wegen ihres niedrigen- Zustands]-]+	t
+217	[vielmehr^ Mitgefühl+]+	t
+217	[für die auserwählte+ Nation]+	s
+217	[seiner Achtung+ [für die auserwählte+ Nation]+]+	s
+217	[die Echtheit+ [seiner Achtung+ [für die auserwählte+ Nation]+]+]+	t
+218	[eine Friedenslösung+ mit zwei unabhängigen Staaten]+	t
+218	[in Frieden+ und Sicherheit+]+	s
+218	[Terror- und äußerem Druck-]-	s
+218	[von [Terror- und äußerem Druck-]-]-	s
+218	[[in Frieden+ und Sicherheit+]+ und frei~ [von [Terror- und äußerem Druck-]-]-]+	t
+219	[eine höhere^ Kraft+, an die er die Verantwortung für seine Straftat- delegieren kann]-	t
+219	[So manch ein Psychopath-]-	t
+219	[für seine Schandtaten-]-	s
+219	[eine Rechtfertigung+ (Satan wollte es so) [für seine Schandtaten-]-]-	t
+219	[dieses ( durch und durch falsche- ) Bild des Satanismus-]-	t
+220	[unter der Führung von Nelson Mandela]0	t
+220	[eine friedliche+ , demokratische+ und humane+ Revolution]+	s
+220	[für [eine friedliche+ , demokratische+ und humane+ Revolution]+]+	s
+220	[ein Vorbild+ [für [eine friedliche+ , demokratische+ und humane+ Revolution]+]+]+	t
+220	[meinen Respekt+ und Sympathie+]+	s
+220	[[meinen Respekt+ und Sympathie+]+ für sein Land]+	t
+221	[keine~ Langeweile- beim Lesen]+	t
+221	[mit witzigen+ Anekdoten]+	t
+222	[deutlich weniger% langlebige+ und leichter+ handhabbare+ radioaktive- Abfälle-]#	t
+223	[die Redlichkeit+ des Klägers]+	s
+223	[die Richtigkeit+ seiner Abrechnungen]+	s
+223	[[die Redlichkeit+ des Klägers]+ und [die Richtigkeit+ seiner Abrechnungen]+]+	s
+223	[in [[die Redlichkeit+ des Klägers]+ und [die Richtigkeit+ seiner Abrechnungen]+]+]+	s
+223	[das Vertrauen+ der Beklagten [in [[die Redlichkeit+ des Klägers]+ und [die Richtigkeit+ seiner Abrechnungen]+]+]+]+	t
+224	[höchste^ Erregung+]+	t
+225	[bei Zweifeln-]-	s
+225	[Für die [bei Zweifeln-]-darüber hinaus mögliche Heranziehung weiterer Auslegungskriterien ( Tarifgeschichte , praktische Tarifübung und Entstehungsgeschichte des Tarifvertrages )]0	t
+225	[keinen~ Zwang- zu einer bestimmten Reihenfolge]+	t
+226	[handgreifliche Nachteile-]-	t
+226	[handgreifliche Vorteile+]+	t
+226	[diese Maengel- der begrifflichen Aufarbeitung]-	t
+227	[gelingenden+ menschlichen Lebens]+	s
+227	[den Gemeinschaftscharakter [gelingenden+ menschlichen Lebens]+]+	t
+227	[Steigerung+ des Lebens]+	t
+227	[Freude+ und Leid-]#	s
+227	[in [Freude+ und Leid-]#]#	s
+227	[Sympathie+ und Empathie+]+	s
+227	[in [Sympathie+ und Empathie+]+]+	s
+227	[der Lebendigkeit+ [in [Freude+ und Leid-]#]# , [in [Sympathie+ und Empathie+]+]+]+	t
+228	[das KnowHow+]+	t
+228	[Gefängnisse-, Abschiebungen-, Gelöbnisse usw.]-	s
+228	[gegen [Gefängnisse-, Abschiebungen-, Gelöbnisse usw.]-]+	s
+228	[Aktionen [gegen [Gefängnisse-, Abschiebungen-, Gelöbnisse usw.]-]+]+	t
+228	[auf kreativen+ und direkten Widerstand]+	t
+229	[feines+ schulterlanges blondes Haar]+	s
+229	[[feines+ schulterlanges blondes Haar]+ und blaue Auge]0	t
+229	[einen wachen+ Geist]+	t
+230	[die Vampirin-]-	t
+230	[Blutsauger- wie Robin]-	t
+230	[per herzhaftem+ Biss-]-	t
+230	[gefallene- Gegner]-	t
+230	[zu treuen+ Gefolgsleuten]+	t
+231	[gegen~ Erkrankungen-]+	s
+231	[der Widerstandskraft+ [gegen~ Erkrankungen-]+]+	s
+231	[Erhebliche Steigerung+ [der Widerstandskraft+ [gegen~ Erkrankungen-]+]+]+	t
+232	[keine~ Kinderkrankheiten-]+	t
+232	[vollkommen^ gesundes+ Gebiß ohne Plomben]+	t
+233	[die von Dai Sijie selbst wunderbar+ leicht+ inszenierte Verfilmung des Romans]+	t
+234	[im wahrsten+ Sinne]+	s
+234	[einer wunderbar+ sensibel+ geführten und [im wahrsten+ Sinne]+ hautnahen Kamera]+	t
+234	[gleichzeitig stolz+ und selbstbewusst+]+	s
+234	[nackt , ungeschützt- , vertrauensvoll+ , [gleichzeitig stolz+ und selbstbewusst+]+]+	t
+235	[in schuldloser+ Heiterkeit+, Einträchtigkeit+ und frommer+ Kindlichkeit+]+	t
+235	[des Himmels+]+	s
+235	[dem Segen+ [des Himmels+]+  und der aufsehenden+ Pflege+ des Gärtners]+	s
+235	[unter [dem Segen+ [des Himmels+]+  und der aufsehenden+ Pflege+ des Gärtners]+]+	t
+235	[freudig+ und allseitig]+	t
+236	[eine stabile+ dichte Atmosphäre]0	t
+236	[des starken^ Bombardements-]-	s
+236	[in der Epoche [des starken^ Bombardements-]-]-	s
+236	[bei dem große Einschläge [in der Epoche [des starken^ Bombardements-]-]-]-	t
+237	[angesichts zunehmender^ Menschenrechtsverletzungen-]-	t
+237	[keinen~ Missbrauch- der ehemaligen NVA-Schiffe]+	t
+238	[eine umfassende+ Kulturarbeit]+	s
+238	[[eine umfassende+ Kulturarbeit]+ und eine Liebe+]+	t
+238	[von Angst-]-	t
+239	[mit Rücksicht+ auf seine versicherungsrechtlichen Obliegenheiten]+	t
+240	[geringer% ausfallenden Disziplinprobleme-]-	t
+241	[Die Versorgung der Eisenschmelzen mit dem " Brennstoff " Holzkohle]0	t
+241	[ein recht^ ernsthaftes^ Problem-]-	t
+242	[kein~ sportlicher Ergeiz+]-	t
+243	[Angst- bis hin zu offener^ Panik-]-	t
+243	[Das intensive^ Eingreifen [der Droge-]- in das Empfinden]-	t
+243	[der Droge-]-	s
+243	[Euphorie+]+	t
+243	[( schlechter- Film )]-	t
+244	[hohe^ Arbeitslosigkeit- im Textilgewerbe]-	t
+245	[starkes^ Fieber-]-	t
+246	[durch [[systematische , staatlich sanktionierte Zwangsarbeit-]- , Gehirnwäsche-, Folter- und Mord-]-]-	t
+246	[[systematische , staatlich sanktionierte Zwangsarbeit-]- , Gehirnwäsche-, Folter- und Mord-]-	s
+246	[systematische , staatlich sanktionierte Zwangsarbeit-]-	s
+247	[bei [[einem Verbrechen- [gegen~ den Frieden+]-]- , [einem Verbrechen- [des Krieges-]-]- und [einem Verbrechen- gegen~ die Menschlichkeit+]-]-]-	t
+247	[bei ihrem illegalen- Aggressionskrieg- gegen den Irak]-	t
+247	[des Krieges-]-	s
+247	[einem Verbrechen- [des Krieges-]-]-	s
+247	[[einem Verbrechen- [gegen~ den Frieden+]-]- , [einem Verbrechen- [des Krieges-]-]- und [einem Verbrechen- gegen~ die Menschlichkeit+]-]-	s
+247	[einem Verbrechen- [gegen~ den Frieden+]-]-	s
+247	[einem Verbrechen- gegen~ die Menschlichkeit+]-	s
+247	[gegen~ den Frieden+]-	s
+247	[eine perfekte^ Verwirrung-]-	t
+247	[dank dieser inneren Schwächen-]-	t
+247	[der Gegner-]-	t
+247	[durch immer^ perfektere^ Verbindung [von [Korruption- , Demagogie- und [oft verfeinertem^ Terror-]-]-]-]-	s
+247	[durch Vervollkommnung^ [seiner antirevolutionären- Strategie]- [durch immer^ perfektere^ Verbindung [von [Korruption- , Demagogie- und [oft verfeinertem^ Terror-]-]-]-]-]-	t
+247	[Korruption- , Demagogie- und [oft verfeinertem^ Terror-]-]-	s
+247	[oft verfeinertem^ Terror-]-	s
+247	[seiner antirevolutionären- Strategie]-	s
+247	[von [Korruption- , Demagogie- und [oft verfeinertem^ Terror-]-]-]-	s
+250	[Die dabei am meisten erfaßte und [von rassistisch- motivierter Repression-]- betroffene Bevölkerungsgruppe]-	t
+250	[Flüchtlinge- , Migrantinnen- und Migranten-]-	t
+250	[von rassistisch- motivierter Repression-]-	s
+251	[die Trauer- [über diesen Verlust-]-]-	s
+251	[für diesen besonderen+ Freund+]+	s
+251	[meine Liebe+ [für diesen besonderen+ Freund+]+]+	s
+251	[[meine Liebe+ [für diesen besonderen+ Freund+]+]+ und [die Trauer- [über diesen Verlust-]-]-]#	t
+251	[über diesen Verlust-]-	s
+252	[Freude+ und Leid-]#	s
+252	[Lust+ und Unmut-]#	s
+252	[[Schmerz- und Heil+]#, [Lust+ und Unmut-]# , [Freude+ und Leid-]#]#	t
+252	[Schmerz- und Heil+]#	s
+253	[Energie+]+	t
+253	[neue Lebenslust+]+	t
+253	[Stress-]-	t
+254	[nur% durchschnittliche% Einnahmen+]+	t
+254	[schlechte- Kritiken]-	t
+255	[bei einem angenommenen Wegfall- aller Zivildienstleistenden [in der stationären Altenhilfe+]+]-	t
+255	[in der stationären Altenhilfe+]+	s
+256	[zum optischen Reiz+ des nächtlichen Umgangs]+	t
+257	[der Wahl [unter den verschiedenen , zur Verwirklichung ihrer Zielsetzung geeigneten+ Lösungen+]+]+	s
+257	[die Freiheit+ [der Wahl [unter den verschiedenen , zur Verwirklichung ihrer Zielsetzung geeigneten+ Lösungen+]+]+]+	t
+257	[keine~ bestimmte Sanktion-]0	t
+257	[unter den verschiedenen , zur Verwirklichung ihrer Zielsetzung geeigneten+ Lösungen+]+	s
+258	[die nutzbare+ Abwärmemenge]+	t
+259	[ein echt^ ernstes+ Thema]+	s
+259	[ein leidiges- , aber [ein echt^ ernstes+ Thema]+]-	t
+260	[Angebote [für die recht^ komplizierten- Gewerbeversicherungen]-]0	t
+260	[für die recht^ komplizierten- Gewerbeversicherungen]-	s
+261	[der Gewinn+ [eines Streits-]-]+	t
+261	[eines Streits-]-	s
+261	[ein " ritterliches+ Herz+ "]+	t
+262	[der Übergang [zu einer wirklich^ freien+ ,offenen+ und demokratischen+ Gesellschaft]+]+	t
+262	[zu einer wirklich^ freien+ ,offenen+ und demokratischen+ Gesellschaft]+	s
+263	[der bisher ohnehin nicht~ schlecht- angefangenen fünften Staffel]+	s
+263	[eine geniale+ Handlung]+	s
+263	[nie~ gesehene- Special Effects]+	s
+263	[[Unglaubliche^ Spannung+]+, [nie~ gesehene- Special Effects]+ und [eine geniale+ Handlung]+]+	t
+263	[Unglaubliche^ Spannung+]+	s
+263	[zu einem absoluten^ Highlight+ [der bisher ohnehin nicht~ schlecht- angefangenen fünften Staffel]+]+	t
+264	[Appetit+ auf eine Schweinshaxe oder einen Käse mit 75 % Fett]+	t
+264	[[der langweilige- und nach nichts schmeckende Magerquark]- , der Tofu oder das Müsli]-	t
+264	[der langweilige- und nach nichts schmeckende Magerquark]-	s
+264	[diese leckeren+ Speisen]+	t
+264	[ohne~ Angst-]+	s
+264	[ohne~  schlechtes- Gewissen]+	s
+264	[[ohne~  schlechtes- Gewissen]+ und [ohne~ Angst-]+]+	t
+265	[aufgrund [der sauberen+ Sprachausgabe]+ und [der vielseitigen+ und dynamischen+ Anspielung der getrennten Kanäle]+]+	t
+265	[der sauberen+ Sprachausgabe]+	s
+265	[der vielseitigen+ und dynamischen+ Anspielung der getrennten Kanäle]+	s
+265	[guter+ Durchschnitt]+	t
+266	[der wirklich^ sehenswerten+ Silvestereffekte]+	s
+266	[einen besseren+ Überblick [über die Vielfalt+ [der wirklich^ sehenswerten+ Silvestereffekte]+]+]+	t
+266	[über die Vielfalt+ [der wirklich^ sehenswerten+ Silvestereffekte]+]+	s
+267	[Ein wunderbarer+ Film]+	t
+267	[kein~ Zweifel-]+	t
+268	[den ökonomische Niedergang-  des in den 50er Jahren noch als überlegen erlebten Sowjetimperiums]-	s
+268	[der stalinistischen- Verbrechen-]-	s
+268	[die Aufdeckung~ [der stalinistischen- Verbrechen-]-]+	s
+268	[[die Aufdeckung~ [der stalinistischen- Verbrechen-]-]+ und [den ökonomische Niedergang-  des in den 50er Jahren noch als überlegen erlebten Sowjetimperiums]-]#	s
+268	[durch [[die Aufdeckung~ [der stalinistischen- Verbrechen-]-]+ und [den ökonomische Niedergang-  des in den 50er Jahren noch als überlegen erlebten Sowjetimperiums]-]#]#	t
+268	[Einen massiven^ Aufschwung+]+	t
+269	[Ehrfurcht+ erregender Stil]+	t
+270	[anderen Betroffenen-]-	t
+270	[einer Therapie+]+	t
+270	[Mut+]+	t

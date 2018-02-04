@@ -1,0 +1,118 @@
+===========================================================
+
+   Documentation for German Sentiment Corpus:
+   Fine-Grained Annotation Layer (Layer 2)
+   (Version 1.0)
+
+===========================================================
+
+
+In this layer, we model the contextually interpreted sentiments on the
+levels of words and NP/PP phrases. That is, the annotation decisions
+are based on the meaning of the words in the context of the sentence.
+
+Word sentiment markers:
+
+The sentiments on the level of individual words are expressed by
+single character markers added at the end of the words.
+
+A word might be positive (+), negative(-), neutral(empty), a shifter
+(~), an intensifier (^), or a diminisher (%).
+
+If a word ends with a hyphen (e.g., "auf beziehungs-_ bzw.
+partnerschaftliche Probleme-", an underscore is added to the word in
+order to prevent missinterpretations of the hyphen as a negative
+marker.
+
+Currently, only words that are part of an NP/PP are marked with
+sentiment markers. Annotated words are nouns, adjectives, negation
+particles, prepositions, adverbs.
+
+The world level annotation was done by 3 persons individually. The
+individual results were harmonized into a single reference annotation.
+
+
+Phrase level markers:
+
+Each phrase is marked up textually by brackets, e.g. "[auf
+beziehungs-_ bzw. partnerschaftliche Probleme-]". The type of a phrase
+(NP/PP) is not written to the brackets. We follow largely the
+annotation model of TIGER for structuring embedded NPs and PPs.
+
+Currently, the following limitations with regard to TIGER exist: (1)
+Adjectival phrases are not marked up (2) Relative or infinitival
+sentences are not included in NPs/PPs if they appear at the end of a
+phrase or if the are discontiguous. We do not only annotate the
+phrases which immediately contain words that are marked up as polar.
+Any dependent subphrase (NP/PP) is integrated into all its dominating
+NPs/PPs, e.g. "[Die tieferen Ursachen [der Faszination+]]". Dependent
+subphrases without any polar words are also included, however, there
+is no internal bracketing for them, e.g. "[hohe+ Ansprüche an Qualität
+und Lage]"
+
+At the level of phrases, we distinguish the following markers:
+positive (+), negative (-), neutral(0), bipolar (#). The category
+'bipolar' is used mainly for coordinations where negative and positive
+sentiments of something are kept in balance by the writer. This is
+quite common for a lot of binomial constructions as "Krieg und
+Frieden".
+
+
+File format:
+
+The annotations of layer 2 are delivered as tab-separated text files
+consisting of 6 columns (see layer2.phrases.detailed.txt):
+
+- column 1: Sentence ID where phrase stems from.
+
+- column 2: Phrase with harmonized word level annotations, and in the
+case of complex NPs/PPs, with subphrase annotations. Subphrase
+annotations are attached to the closing right bracket. The sentiment
+annotations of the different annotators are separated by slashes.
+
+- column 3: Sentiment annotation of annotator 1 for the phrase
+
+- column 4: Sentiment annotation of annotator 2 for the phrase
+
+- column 5: Sentiment annotation of annotator 3 for the phrase
+
+- column 6: Type of phrase: t means toplevel, s means subphrase. A
+phrase of type s has to appear in an other toplevel phrase. Toplevel
+phrases are the biggest constituents that are annotated.
+
+
+Furthermore, to facilitate end-usage, 
+we provide a version where the polarity annotation is
+based on a majority vote between the 3 annotators. This file 
+consists of 3 columns  (see layer2.phrases.majority.txt):
+
+- column 1: Sentence ID where phrase stems from.
+
+- column 2: Phrase with harmonized word level annotations, and in the
+case of complex NPs/PPs, with subphrase annotations. Phrase and subphrase
+annotations (majority vote) are attached to the closing right bracket. 
+
+- column 3: Type of phrase: t means toplevel, s means subphrase. A
+phrase of type s has to appear in an other toplevel phrase. Toplevel
+phrases are the biggest constituents that are annotated.
+     
+
+References
+
+
+Brants, S., Dipper, S., Hansen, S., Lezius, W., and Smith, G. (2002).
+The TIGER treebank. In Proceedings of the Workshop on Treebanks and
+Linguistic Theories, Sozopol.
+
+
+
+-----------------------------------------------------------
+
+Simon Clematide
+Manfred Klenner
+Stefanos Petrakis
+
+
+Version 1.0  
+last modified 11/14/11
+
