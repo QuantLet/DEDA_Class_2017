@@ -29,7 +29,7 @@ from nltk.corpus import names as corp
 import random
 
 # import config file with credentials - path needs to be adapted
-path = "/Users/pauljakob/Docs/00_Uni/04_DEDA/Projects/DEDA_CLASS_2017_PJ"
+path = ***
 os.chdir(path)
 from CONFIG import *
 
@@ -274,7 +274,6 @@ plt.xticks(rotation=90)
 
 plt.show()
 plt.savefig('Gender.png')
-plt.savefig('demo.png', transparent=True)
 
 '''
 Possible Improvements:
