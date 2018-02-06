@@ -1,0 +1,10 @@
+Name of Quantlet : DEDA_Class_2017_LinkedIn_Analysis
+Published in : Digital Economy and Decision Analytics
+Description : This repository contains python scripts to scrape information from LinkedIn and analyze talent distributions by gender and locations.
+Keywords : 
+- Python
+- LinkedIn
+- Google Maps API
+- Gender Classification
+- NLTK 
+Author : Paul Jakob
