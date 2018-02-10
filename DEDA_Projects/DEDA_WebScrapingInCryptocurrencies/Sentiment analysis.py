@@ -86,6 +86,7 @@ for article in sent_score_full:
 
 
 
+
 #Add sentiment to bitcoin dataframe:
 bitcoin_df = pd.read_csv("Bitcoin_magazin_news.csv")
 bitcoin_df["sentiment_McD"] = indic_list
@@ -94,20 +95,23 @@ bitcoin_df["sentiment_Chen"] = avg_sent_score
 #Add btc_prices to bitcoin dataframe:
 bitcoin_df["time"] = bitcoin_df["time"].apply(lambda x:
                                               datetime.datetime.strptime(x,'%Y-%m-%d %H:%M:%S'))
-
 bitcoin_df["time"] = bitcoin_df["time"].dt.date
 
 bitcoin_df.index = bitcoin_df["time"]
 
 btc_price = btc_price.to_frame()
 
-
-
 btc_merge = pd.merge(bitcoin_df,btc_price, how='inner', left_index=True, right_index = True)
 
+btc_merge.to_csv('Bitcoin_Magazin_Final.csv')
 
-bitcoin_df.to_csv('Bitcoin_Magazin_Final.csv')
+bitcoin_df = pd.read_csv("Bitcoin_Magazin_Final.csv")
 
 
-#Plot of price and sentiment:
+#Group by day of sentiment
 
+df_sent_Chen = bitcoin_df["sentiment_Chen"].groupby(by = bitcoin_df.index, axis = 0).apply(lambda x : x.mean())
+
+df_sent_McD = bitcoin_df["sentiment_McD"].groupby(by = bitcoin_df.index, axis = 0).apply(lambda x : x.mean())
+
+df_btc_price = bitcoin_df["avg_BTC_price"].groupby(by = bitcoin_df.index, axis = 0).apply(lambda x : x.mean())
