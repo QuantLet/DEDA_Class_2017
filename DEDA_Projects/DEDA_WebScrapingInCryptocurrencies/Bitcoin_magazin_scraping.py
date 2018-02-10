@@ -1,32 +1,24 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Dec 11 18:45:10 2017
-
 @author: Alex
 """
-#Scrap the data from bitcoin magazin. We are first interested in the link,titel,time and the tag of the first page.
 
-
-'''
-functional programed
-'''
 from bs4 import BeautifulSoup as soup
 import requests
-import datetime
-import os
 import pandas as pd
-import pickle
+
 
 import bitcoinfunc as bc
 
 
-
+#Scrap title,time,link,tag and content from every article
 
 title_list = []
 time_list = []
 link_list = []
 tag_list = []
-content_list = [] 
+content_list = []
 
 
 
@@ -43,11 +35,9 @@ bitcoin_info_df = pd.DataFrame(list(bitcoin_info), columns=['title', 'time','lin
 bitcoin_info_df.to_csv(direct + '/Bitcoin_News_MultiPages.csv')
 
 
-bitcoin_magazin = zip(title_list, time_list, link_list, tag_list, content_list)
-bitcoin_magazin_df = pd.DataFrame(list(bitcoin_magazin), columns=['title', 'time','link', 'tag', 'content'])
-bitcoin_magazin_df.to_csv('Bitcoin_magazin_news.csv')
 
-# Getting the content of each article
+
+# Get the content of each article
 
 for i in range(len(link_list)):
     print("\nThis is Article: ", i)
@@ -63,3 +53,8 @@ for i in range(len(link_list)):
         news_text += container.text.strip()
     content_list.append(news_text)
 
+
+
+bitcoin_magazin = zip(title_list, time_list, link_list, tag_list, content_list)
+bitcoin_magazin_df = pd.DataFrame(list(bitcoin_magazin), columns=['title', 'time','link', 'tag', 'content'])
+bitcoin_magazin_df.to_csv('Bitcoin_magazin_news.csv')
