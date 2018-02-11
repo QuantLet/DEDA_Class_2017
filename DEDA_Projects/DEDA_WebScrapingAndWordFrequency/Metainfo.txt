@@ -1,0 +1,14 @@
+Name of Quantlet : DEDA_WebScrapingAndWordFrequency
+Published in : Digital Economy and Decision Analytics
+Description : This repository contains code for Python Webscraping, Sentiment Analysis, Topic Models (Latent Dirichlet Allocation) and the generation of Word Clouds. Analysis is performed on several speeches, namely "What to the Slave is the Fourth of July" by Frederick Douglass and multiple speeches by Donald J. Trump.
+Keywords : 
+- Python
+- Sentiment Analysis
+- Latent Dirichlet Allocation
+- Topic Model
+- Selenium
+- Beautiful Soup
+- Word Frequency
+- Histogram of Words
+- Word Cloud
+Author : Julian Winkel
