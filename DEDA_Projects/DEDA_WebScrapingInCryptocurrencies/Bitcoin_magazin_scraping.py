@@ -8,11 +8,9 @@ from bs4 import BeautifulSoup as soup
 import requests
 import pandas as pd
 
-
 import bitcoinfunc as bc
 
-
-#Scrap title,time,link,tag and content from every article
+# Scrap title,time,link,tag and content from every article
 
 title_list = []
 time_list = []
@@ -20,9 +18,7 @@ link_list = []
 tag_list = []
 content_list = []
 
-
-
-for page_num in range(1,60):
+for page_num in range(1, 60):
     print("\nThis is Page: ", page_num)
     # Using the function defined previously with certain input arguments
     bitcoin_news_page = bc.bitcoin_news_scraping(page=page_num, refresh=False)
@@ -31,11 +27,8 @@ for page_num in range(1,60):
     link_list.extend(bitcoin_news_page[2])
     tag_list.extend(bitcoin_news_page[3])
 bitcoin_info = zip(title_list, time_list, link_list, tag_list)
-bitcoin_info_df = pd.DataFrame(list(bitcoin_info), columns=['title', 'time','link', 'tag'])
+bitcoin_info_df = pd.DataFrame(list(bitcoin_info), columns=['title', 'time', 'link', 'tag'])
 bitcoin_info_df.to_csv(direct + '/Bitcoin_News_MultiPages.csv')
-
-
-
 
 # Get the content of each article
 
@@ -53,8 +46,6 @@ for i in range(len(link_list)):
         news_text += container.text.strip()
     content_list.append(news_text)
 
-
-
 bitcoin_magazin = zip(title_list, time_list, link_list, tag_list, content_list)
-bitcoin_magazin_df = pd.DataFrame(list(bitcoin_magazin), columns=['title', 'time','link', 'tag', 'content'])
+bitcoin_magazin_df = pd.DataFrame(list(bitcoin_magazin), columns=['title', 'time', 'link', 'tag', 'content'])
 bitcoin_magazin_df.to_csv('Bitcoin_magazin_news.csv')

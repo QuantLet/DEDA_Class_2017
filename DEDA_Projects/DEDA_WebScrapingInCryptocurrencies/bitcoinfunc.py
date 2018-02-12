@@ -4,8 +4,10 @@ import datetime
 import os
 import pandas as pd
 import pickle
+
 # Using the requests module to get source code from the url
 direct = os.getcwd()
+
 
 def bitcoin_news_scraping(page=1, refresh=False):
     # Argument page equals 1 by default
@@ -63,4 +65,4 @@ def bitcoin_news_scraping(page=1, refresh=False):
             for item in container_c:
                 news_tag = item.text.strip("Appears In:")
                 tag_list.append(news_tag)
-    return title_list, time_list,link_list, tag_list
+    return title_list, time_list, link_list, tag_list

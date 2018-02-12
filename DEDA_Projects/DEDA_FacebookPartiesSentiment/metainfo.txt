@@ -1,0 +1,10 @@
+Name of Quantlet : DEDA_Class_2017_FacebookPartiesSentiment
+Published in : Digital Economy and Decision Analytics
+Description : These py-scripts help obtaining partie's messages from their facebook pages and analyzing their sentiment.
+Keywords : 
+- Python
+- Facebook
+- Graph API
+- Sentimental Analyziz
+- NLTK 
+Author : Christine Ludﬂuweit
