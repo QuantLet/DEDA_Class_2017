@@ -1,0 +1,11 @@
+Name of Quantlet : DEDA_NewspaperStockPrices
+Published in : Digital Economy and Decision Analytics
+Description : These program scrapes data from sueddeutsche.de and faz.net and trains with these data a decision tree and a logistic regresion.
+Keywords : 
+- Python
+- SZ
+- FAZ
+- decision tree
+- logistic regresion
+Author : Christopher Ketzler
+Submitted: Tue, February 13 2018 by Christopher Ketzler
