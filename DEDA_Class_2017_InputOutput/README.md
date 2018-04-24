@@ -112,6 +112,53 @@ type(apple_stock)
 # For example, easily slicing rows and selecting columns
 apple_stock_2013 = apple_stock.loc[apple_stock.index.year == 2013, ['low', 'high', 'open', 'close', 'volume']]
 
+# shape of DataFrame
+print(apple_stock_2013.shape)
+
+# sorting by value
+apple_stock_2013.sort_values(by='volume', ascending=False, inplace=True)
+print(apple_stock_2013)
+
+# check monotonicity increasing through time
+print(apple_stock_2013.index.is_monotonic_increasing)
+
+# sorting by index
+apple_stock_2013.sort_index(axis=0, ascending=True, inplace=True)
+
+# reset index as numeric
+apple_stock_2013.reset_index(drop=False, inplace=True)
+
+# add a row
+new_row_1 = {'date': dt.datetime(2013, 8, 31), 'low': 500, 'high': 510}
+apple_stock_2013 = apple_stock_2013.append(new_row_1, ignore_index=True)
+
+# Check null values
+nan_rows = apple_stock_2013[apple_stock_2013['open'].isna()]
+
+# remove null values
+apple_stock_2013.dropna(axis=0, how='any', subset=['volume', 'close'], inplace=True)
+
+# duplicate a row
+new_row = {'date': dt.datetime(2013, 8, 30)}
+apple_stock_2013 = apple_stock_2013.append(new_row, ignore_index=True)
+apple_stock_2013.fillna(method='ffill', inplace=True)
+
+# set a column as index
+apple_stock_2013.set_index(keys='date', drop=True, append=False, inplace=True)
+
+# duplicates timestamp operations
+print(apple_stock_2013.index.has_duplicates)
+apple_stock_2013.index.duplicated()
+
+# operation
+# way1, potential risk
+way1 = apple_stock_2013.drop_duplicates(keep='first', subset=['low', 'high', 'open', 'close', 'volume'])
+# way2, drop by index, row operation
+apple_stock_2013 = apple_stock_2013[~ (apple_stock_2013.index.duplicated())]  # ~, take inverse
+
+# a simple build-in plot function of pandas
+apple_stock_2013['open'].plot()
+
 # Save the new data as json format
 apple_stock_2013.to_json('AAPL_2013.json')
 apple_stock_2013.to_csv('test.csv')
