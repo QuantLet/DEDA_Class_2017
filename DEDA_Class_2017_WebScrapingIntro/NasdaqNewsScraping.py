@@ -38,7 +38,7 @@ else:
         url_request = pickle.load(url_file)
 
 url_request = requests.get(nasdaq_url)
-url>_content = url_request.content
+url_content = url_request.content
 # Using BeautifulSoup to parse webpage source code
 parsed_content = soup(url_content)
 # Finding all the <p> tag content
