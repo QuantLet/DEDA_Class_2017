@@ -1,0 +1,11 @@
+Name of Quantlet : DEDA_WebScrapingInCryptocurrencies
+Published in : Digital Economy and Decision Analytics
+Description : Extract sentiment from Bitcoin related news and use sentiment to forecast price
+
+Keywords :
+- Cryptocurrency
+- Bitcoin
+- News Sentiment
+- Forecasting
+
+Author : Alex

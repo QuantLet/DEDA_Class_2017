@@ -1,4 +1,4 @@
-Name of Quantlet : DEDA_Class_2017_Python_Introduction
+Name of Quantlet : DEDA_Class_2017_Introduction
 Published in : Digital Economy and Decision Analytics
 Description : Introduce basic syntax, like numeric and string, and basic data structure, like list, tuple, set and dict in Python
 Keywords : 
