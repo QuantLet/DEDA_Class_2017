@@ -1,10 +1,6 @@
 Name of Quantlet : DEDA_Class_2017_WordCloudandSentimentAnalysiswithYelpReviews
 Published in : Digital Economy and Decision Analytics
-Description : Crawl user-published reviews on Yelp and apply text mining and machine learing techniques using Python
-
-- Web Scraping and Word Cloud
-- Sentiment Analysis using Textblob
-- Sentiment Classification using SVM
+Description : Crawl user-published reviews on Yelp and apply text mining and machine learing techniques using Python. Web Scraping and Word Cloud, Sentiment Analysis using Textblob, Sentiment Classification using SVM
 
 Keywords :
 - Python
