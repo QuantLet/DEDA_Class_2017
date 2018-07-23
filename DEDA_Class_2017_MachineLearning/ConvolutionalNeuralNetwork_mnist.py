@@ -11,7 +11,6 @@ import matplotlib.pyplot as plt
 from keras.models import load_model
 
 
-
 def trainning_process(model_history):
     fig = plt.figure(figsize=(15, 5))
     # Accuracy Increasing
@@ -105,7 +104,7 @@ validation_acc = model_result.history['val_acc'][-1]
 print(f'The final accuracy is {validation_acc*100}%')  # The final cross validation accuracy is 99.22%
 model.save('cnn_model.h5')
 
-#============Load Trained Model=============
+# ============Load Trained Model=============
 model_loaded = load_model('cnn_model.h5')
 test_accu = model_loaded.evaluate(X_test, y_test)
 print(f'Test Accuracy is: {test_accu[1]}')
