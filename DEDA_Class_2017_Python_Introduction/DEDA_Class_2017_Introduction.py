@@ -152,6 +152,160 @@ num_seq = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 num_seq_db = [format(num, '02d') for num in num_seq]
 
 """
+Python provides a straight way for numerical operations
+Try comparison operationsL
+==,<,<=,>,>=,!=
+"""
+
+a = 5
+a == 5 # True
+
+a <= 5 # True
+a < 5 # False
+
+a = 'A'
+b = 'B'
+a == b # False
+a != b # True
+
+"""
+Lists are versatile Python data type to group values.
+Lists can contain different types, e.g. strings, numbers, 
+functions, lists, ...
+"""
+p = [2,3,5,7,11]
+p # [2, 3, 5, 7, 11]
+
+# indexing
+p[0] # 2
+p[-1] # 11
+
+# sclicing
+p[:2] # [2, 3]
+p[-3:] # [5, 7, 11]
+
+# appending
+p.append(13) # [2, 3, 5, 7, 11, 13]
+p.extend([17,19]) # [2, 3, 5, 7, 11, 13, 17, 19]
+
+l = list('hallo') # ['h', 'a', 'l', 'l', 'o']
+l.sort() # ['a', 'h', 'l', 'l', 'o']
+
+"""
+Dictionary is indexed by keys, in general strings.
+"""
+course = dict(name='DEDA', unit=1) # {'name': 'DEDA', 'unit': 0}
+# alternative
+course = {'name':'DEDA', 'unit':1} # {'name': 'DEDA', 'unit': 0}
+
+# accessing
+course['unit'] # 0
+course['unit'] = 1
+
+# get keys
+course.keys() # ['name', 'unit']
+course.values() # ['DEDA', 1]
+# ATTENTION: Output type varies with version of Python: {'Python2.7': list, 'Python3.7': 'its own data type'}
+
+# adding values
+course.update({'lecturers':['Chen','Haerdle']}) # {'lecturers': ['Chen', 'Haerdle'], 'name': 'DEDA', 'unit': 1}
+
+"""
+For Loop can iterate over all iterables.
+All iterables have a method __iter__ which returns an iterator
+"""
+l = list([1,2,3,4,5])
+for i in l:
+    print(i*2, end=' ')
+# 2 4 6 8 10
+
+for i in range(6):
+    if i == 3:
+        continue
+    print(i*2, end=' ')
+# 0 2 4 8 10
+
+for i in 'DEDA':
+    print(i, end=' ')
+# D E D A
+
+d = dict(a=1,b=2)
+for k,v in d.items():
+    print('{} has value {}'.format(k,v))
+# a has value 1
+# b has value 2
+
+
+"""
+Control Flow Tools: if/elif/else
+"""
+x = 10
+if x < 0:
+    print('Negative value')
+elif x == 0:
+    print('Zero')
+else:
+    print('Positive value')
+# Positive value
+
+# Conditions can be combined or altered with: and, or, not, is, is not
+# Comparision statements can be used
+p = [2,3,5,7,11]
+3 in p # True
+3 in p and 4 in p # False
+3 in p or 4 in p # True
+if x is not None:
+    print('Value x is not None')
+# Alternative
+if not x is None:
+    print('Value x is not None')
+
+
+"""
+While loop
+There is no Do-While-Loop
+"""
+# Fibonacci series: sum of two preceding numbers defines next number
+from __future__ import print_function
+a, b = 0, 1
+while b < 100:
+    print(b, end=' ')
+    a,b = b, b+a
+# 1 1 2 3 5 8 13 21 34 55 89
+# ATTENTION: Make sure not to have infinite loop (loop with tautology in condition)
+
+# Do While Loop
+fib = [0,1]
+while True:
+    fib.append(sum(fib[-2:]))
+    if fib[-1] > 100:
+        break
+fib # [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
+
+
+"""
+Function definition
+"""
+def square_numeric(x):
+    """ Squares numeric x"""
+    return x**2
+
+def square_iterable(x):
+    """ Squares numerics in iterable x"""
+    ret = []
+    for i in x:
+        ret.append(square_numeric(i))
+    return ret
+
+def square_iterabel_short(x):
+    """ Squares numerics in iterable x"""
+    return [square_numeric(i) for i in x]
+
+x = [1,2,3,4,5]
+square_iterable(x)  # [1, 4, 9, 16, 25]
+square_iterabel_short(x) # [1, 4, 9, 16, 25]
+
+"""
 Dictionary
 """
 """
