@@ -1,3 +1,36 @@
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+
+## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **DEDA_Class_2017_Introduction** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
+
+```yaml
+
+Name of Quantlet : DEDA_Class_2017_Introduction
+Published in : Digital Economy and Decision Analytics
+Description : Introduce basic syntax, like numeric and string, and basic data structure, like list, tuple, set and dict in Python
+Keywords : 
+- Python
+- Teaching
+- Data Science
+- Economy
+- Decision
+Author : Junjie Hu
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+### PYTHON Code
+```python
+
 """
 Python Basic Syntax and Data Structure Introduction
 """
@@ -455,3 +488,7 @@ ani = animation.FuncAnimation(fig=fig,
                               blit=False,
                               repeat=True)
 plt.show()
+
+```
+
+automatically created on 2018-09-04
