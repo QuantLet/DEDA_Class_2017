@@ -6,6 +6,8 @@ from sklearn import tree
 import graphviz
 from sklearn.metrics import accuracy_score as acc_rate
 
+conda install python-graphviz 
+
 iris = load_iris()
 
 # Glance the data set
