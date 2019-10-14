@@ -3,7 +3,7 @@ This is a preliminary tutorial for scraping web pages
 
 With a lot of notes, one can easily get touch web scraping with Python
 
-Python Version: 3.6
+Python Version: 3.6.2
 
 @Author: Junjie Hu, jeremy.junjie.hu@gmail.com
 
