@@ -52,4 +52,4 @@ dot_data = tree.export_graphviz(clf,
                                 impurity=False,
                                 special_characters=True)
 graph = graphviz.Source(dot_data)
-graph.render("iris")
+graph.render("iris", view = True)
