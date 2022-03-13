@@ -1,17 +1,18 @@
 import scipy as sc
 import matplotlib.pyplot as plt
 import matplotlib.mlab as mlab
-
+from scipy.stats import norm
+\
 
 def plot_normal(mu, sigma, size):
     # Create a function to receive normal distribution parameters
     normal_data = sc.random.normal(loc=mu, scale=sigma, size=size)
-    plt.axes()
+    
     # The hist() method not only draw the histogram
     # but also return the info of the drawing
-    n, bins, patchs = plt.hist(normal_data, bins=100, normed=1)
+    n, bins, patchs = plt.hist(normal_data, bins=100, density=True)
     # Use bins returned from hist() to draw a wrap line
-    y = mlab.normpdf(bins, mu, sigma)
+    y = norm.pdf(bins, mu, sigma)
     plt.plot(bins, y, '-')
     plt.draw()
     return plt
