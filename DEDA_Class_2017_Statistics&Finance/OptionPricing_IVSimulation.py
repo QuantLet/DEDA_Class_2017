@@ -150,12 +150,12 @@ tol = 0.5  # tolerance level for moneyness
 futures_data = pd.read_hdf('DEDA_Class_2017_Statistics&Finance/source/vstoxx_data.h5', key='futures_data', mode='r')
 options_data = pd.read_hdf('DEDA_Class_2017_Statistics&Finance/source/vstoxx_data.h5', key='options_data', mode='r')
 
-# Altering timestamp to datetime
-futures_data['DATE'] = futures_data['DATE'].apply(lambda x: dt.datetime.fromtimestamp(x / 1e9))
-futures_data['MATURITY'] = futures_data['MATURITY'].apply(lambda x: dt.datetime.fromtimestamp(x / 1e9))
 
-options_data['DATE'] = options_data['DATE'].apply(lambda x: dt.datetime.fromtimestamp(x / 1e9))
-options_data['MATURITY'] = options_data['MATURITY'].apply(lambda x: dt.datetime.fromtimestamp(x / 1e9))
+
+
+
+
+
 
 options_data[['DATE', 'MATURITY', 'TTM', 'STRIKE', 'PRICE']].head()
 options_data['IMP_VOL'] = 0.0  # new column for implied volatilities
