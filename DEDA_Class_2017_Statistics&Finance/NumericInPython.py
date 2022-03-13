@@ -26,7 +26,7 @@ import matplotlib.pyplot as plt
 
 fig = plt.figure()  # Create a window to draw
 ax = plt.axes()  # Create axes
-ax.plot(np.arange(1, 21), A, 'mu')  # Plot the dots, using circle
+ax.plot(np.arange(1, 21), A, 'o')  # Plot the dots, using circle
 ax.set_title('Random Number Plotting')  # Set figure title
 plt.show()
 # Save figure to a high quality
