@@ -1,14 +1,14 @@
-from keras.datasets import mnist
-from keras.utils import np_utils, plot_model
-from keras.models import Sequential
-from keras.layers.convolutional import Convolution2D, MaxPooling2D
-from keras.layers import Activation, Flatten, Dense, Dropout
-from keras.layers.normalization import BatchNormalization
+from tensorflow.keras.datasets import mnist
+from tensorflow.keras.utils import np_utils, plot_model
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers.convolutional import Convolution2D, MaxPooling2D
+from tensorflow.keras.layers import Activation, Flatten, Dense, Dropout
+from tensorflow.keras.layers.normalization import BatchNormalization
 import numpy as np
 import time
-from keras.layers import SimpleRNN, Activation, Dense
+from tensorflow.keras.layers import SimpleRNN, Activation, Dense
 import matplotlib.pyplot as plt
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 
 
 def trainning_process(model_history):
