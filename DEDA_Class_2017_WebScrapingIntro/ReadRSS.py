@@ -10,7 +10,7 @@ Author:
 Last modified date: 19-11-2017
 """
 
-import feedparser
+import feedparser # install if needed: pip install feedparser
 
 # retrieve RSS feedback
 content = feedparser.parse("https://www.ft.com/?edition=international&format=rss")
@@ -22,7 +22,15 @@ print("\nTitles-------------------------\n")
 for index, item in enumerate(content.entries):
     print("{0}.{1}".format(index, item["title"]))
 
-# list all description
+'''
+  # list all description
 print("\r\nDescriptions-------------------\r\n")
 for index, item in enumerate(content.entries):
     print("{0}.{1}\n".format(index, item["description"]))
+'''
+
+# list all published dates
+print("\r\npublished-------------------\r\n")
+for index, item in enumerate(content.entries):
+    #print(item)
+    print("{0}.{1}\n".format(index, item["published"]))
