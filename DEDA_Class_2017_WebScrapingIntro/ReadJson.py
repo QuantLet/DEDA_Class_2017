@@ -14,7 +14,7 @@ import requests
 import json
 import pprint
 
-response = requests.get("http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-000352-001")
+response = requests.get("https://data.ntpc.gov.tw/api/datasets/71CD1490-A2DF-4198-BEF1-318479775E8A/json/preview")
 content = response.content
 json_tree = json.loads(content)
 pprint.pprint(json_tree)
